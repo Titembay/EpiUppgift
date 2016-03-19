@@ -1,0 +1,19 @@
+﻿body {
+}
+  .carousel-inner img {
+      width: 30%; /* Set width to 100% */
+      margin: auto;
+      min-height:200px;
+  }
+  .jumbotron
+  {
+      width: 60%;
+      padding-left:20px;
+      background-image:url(tumblr_inline_o1b55oftU41rdtl9n_1280.jpg);
+     
+  }
+  #myCarousel
+  {
+      width:30%
+  }
+  
